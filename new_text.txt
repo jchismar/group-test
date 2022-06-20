@@ -1,2 +1,3 @@
 new text file
 added new stuff from local
+trying to make a merge conflict
